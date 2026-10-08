@@ -1,0 +1,4 @@
+node_modules/
+api-key.txt
+.env
+uploads/*.png
